@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/src/com/percussion/pso/migration
+END
+AbstractTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/src/com/percussion/pso/migration/AbstractTask.java
+END
+SuccessCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/src/com/percussion/pso/migration/SuccessCommand.java
+END
+ICommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/src/com/percussion/pso/migration/ICommand.java
+END
+FailCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/src/com/percussion/pso/migration/FailCommand.java
+END
+MigrationToolsServiceLocator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/src/com/percussion/pso/migration/MigrationToolsServiceLocator.java
+END
+IMigrationTool.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/src/com/percussion/pso/migration/IMigrationTool.java
+END
+ProgressCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/src/com/percussion/pso/migration/ProgressCommand.java
+END

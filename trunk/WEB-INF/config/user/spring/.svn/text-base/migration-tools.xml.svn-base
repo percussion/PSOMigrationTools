@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE beans PUBLIC "-//SPRING//DTD BEAN//EN" 
+"http://www.springframework.org/dtd/spring-beans.dtd">
+
+<beans>
+
+<bean id="migrationCommunityTools" class="com.percussion.pso.migration.community.CommunityTools" singleton="true" init-method="initServices" />
+<bean id="migrationContentTools" class="com.percussion.pso.migration.content.ContentTools" singleton="true" init-method="initServices" />
+<bean id="migrationContentTypeTools" class="com.percussion.pso.migration.contenttype.ContentTypeTools" singleton="true" init-method="initServices" />
+<bean id="migrationFolderTools" class="com.percussion.pso.migration.folder.FolderTools" singleton="true" init-method="initServices" />
+<bean id="migrationRoleTools" class="com.percussion.pso.migration.role.RoleTools" singleton="true" init-method="initServices" />
+<bean id="migrationSiteTools" class="com.percussion.pso.migration.site.SiteTools" singleton="true" init-method="initServices" />
+<bean id="migrationSlotTools" class="com.percussion.pso.migration.slot.SlotTools" singleton="true" init-method="initServices" />
+<bean id="migrationTemplateTools" class="com.percussion.pso.migration.template.TemplateTools" singleton="true" init-method="initServices" />
+<bean id="migrationWorkflowTools" class="com.percussion.pso.migration.workflow.WorkflowTools" singleton="true" init-method="initServices" />
+
+</beans>

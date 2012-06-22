@@ -1,0 +1,347 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib
+END
+rxutils.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/rxutils.jar
+END
+commons-jexl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/commons-jexl.jar
+END
+asm-attrs.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/asm-attrs.jar
+END
+jmock-junit3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/jmock-junit3.jar
+END
+jmock-junit4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/jmock-junit4.jar
+END
+jcr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/jcr.jar
+END
+spring-test.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/spring-test.jar
+END
+ehcache.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/ehcache.jar
+END
+antlr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/antlr.jar
+END
+asm.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/asm.jar
+END
+commons-io.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/commons-io.jar
+END
+rxinstall.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/rxinstall.jar
+END
+objenesis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/objenesis.jar
+END
+cglib-nodep.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/cglib-nodep.jar
+END
+spring-webmvc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/spring-webmvc.jar
+END
+rxworkflow.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/rxworkflow.jar
+END
+rxmisctools.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/rxmisctools.jar
+END
+commons-httpclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/commons-httpclient.jar
+END
+rxclient.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/rxclient.jar
+END
+saxon.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/saxon.jar
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/junit.jar
+END
+rxtablefactory.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/rxtablefactory.jar
+END
+hamcrest-core.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/hamcrest-core.jar
+END
+rxservices.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/rxservices.jar
+END
+commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/commons-logging.jar
+END
+commons-beanutils.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/commons-beanutils.jar
+END
+hibernate.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/hibernate.jar
+END
+activation.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/activation.jar
+END
+spring.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/spring.jar
+END
+rxff.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/rxff.jar
+END
+hamcrest-library.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/hamcrest-library.jar
+END
+aopalliance.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/aopalliance.jar
+END
+rxextensions.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/rxextensions.jar
+END
+dom4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/dom4j.jar
+END
+jta.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/jta.jar
+END
+log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/log4j.jar
+END
+rxserver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/rxserver.jar
+END
+jtidy-r938.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/jtidy-r938.jar
+END
+commons-codec.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/commons-codec.jar
+END
+stax-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/stax-api.jar
+END
+commons-collections.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/commons-collections.jar
+END
+jdom.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/jdom.jar
+END
+commons-lang.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/commons-lang.jar
+END
+rxwebservices.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/rxwebservices.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/servlet-api.jar
+END
+rhythmyx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/rhythmyx.jar
+END
+hibernate-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/hibernate-annotations.jar
+END
+commons-fileupload.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/commons-fileupload.jar
+END
+rome.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/rome.jar
+END
+percbeans.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/percbeans.jar
+END
+jmock.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/jmock.jar
+END
+rxbusiness.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/rxbusiness.jar
+END
+ejb3-persistence.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/ejb3-persistence.jar
+END
+hibernate-commons-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/hibernate-commons-annotations.jar
+END
+rxpublisher.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/rxpublisher.jar
+END
+commons-betwixt-0.7RC2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/commons-betwixt-0.7RC2.jar
+END
+Tidy.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/psolib/!svn/ver/5048/PSOMigrationTools/trunk/ivylib/Tidy.jar
+END
