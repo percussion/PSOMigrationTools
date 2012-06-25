@@ -1,8 +1,7 @@
 PSOMigrationTools
 =================
+[Percussion Software](http://www.percussion.com "Percussion Software")
 
----------------------------
-PSO Migration Tools README
 ---------------------------
 This is the PSO Migration Tools project.  It is a collection of tools designed to be used to assist
 in migration activities. 
